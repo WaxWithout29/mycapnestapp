@@ -1,0 +1,3 @@
+title=ORB Calculator
+author=Sonal Abhishek
+orientation=portrait
